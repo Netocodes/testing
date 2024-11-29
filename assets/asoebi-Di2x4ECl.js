@@ -1,0 +1,1 @@
+import{j as e}from"./index-qcpezxSV.js";import{I as i}from"./imagesec-CNC8DCKi.js";const o=()=>e.jsx("div",{children:e.jsx("div",{children:e.jsx(i,{title:"Aso-ebi Section Catalouge",image:""})})});export{o as default};
