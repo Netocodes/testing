@@ -1,0 +1,1 @@
+import{j as e}from"./index-Cb7L-y3f.js";import{I as t}from"./imagesec-Bwid_q-w.js";const i=()=>e.jsxs("div",{children:[" ",e.jsx("div",{children:e.jsx(t,{title:"Buba Section Catalouge",image:""})})]});export{i as default};
