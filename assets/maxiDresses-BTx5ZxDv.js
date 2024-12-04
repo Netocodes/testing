@@ -1,1 +1,0 @@
-import{j as s}from"./index-BBE1X_Fp.js";import{I as e}from"./imagesec-BxmM_nxK.js";const t=()=>s.jsxs("div",{children:[" ",s.jsx("div",{children:s.jsx(e,{title:"Maxi-dress Section Catalouge",image:""})})]});export{t as default};
