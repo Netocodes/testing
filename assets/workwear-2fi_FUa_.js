@@ -1,0 +1,1 @@
+import{j as e}from"./index-BBE1X_Fp.js";import{I as r}from"./imagesec-BxmM_nxK.js";const s=()=>e.jsxs("div",{children:[" ",e.jsx("div",{children:e.jsx(r,{title:"Workwear Section Catalouge",image:""})})]});export{s as default};
