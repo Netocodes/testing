@@ -1,0 +1,1 @@
+import{j as e}from"./index-Cb249rRs.js";import{I as t,F as r}from"./footersec-e9rP8cYU.js";const a=()=>e.jsxs("div",{children:[" ",e.jsx("div",{children:e.jsx(t,{title:"Maternity Wear Section ",image:""})}),e.jsx(r,{})]});export{a as default};
