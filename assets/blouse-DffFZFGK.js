@@ -1,0 +1,1 @@
+import{j as e}from"./index-CBkpiKnK.js";import{I as s,F as o}from"./footersec-B4bfsW_X.js";const i=()=>e.jsxs("div",{children:[e.jsx("div",{children:e.jsx(s,{title:"Blouse Section Catalouge",image:""})}),e.jsx(o,{})]});export{i as default};
