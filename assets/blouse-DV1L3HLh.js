@@ -1,0 +1,1 @@
+import{j as e}from"./index-D8GB8Q-1.js";import{I as s,F as o}from"./footersec-CRRCXL-E.js";const i=()=>e.jsxs("div",{children:[e.jsx("div",{children:e.jsx(s,{title:"Blouse Section Catalouge",image:""})}),e.jsx(o,{})]});export{i as default};

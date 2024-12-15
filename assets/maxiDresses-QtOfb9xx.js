@@ -1,1 +1,0 @@
-import{j as s}from"./index-4JRo05WZ.js";import{I as e,F as r}from"./footersec-CgniJrGO.js";const a=()=>s.jsxs("div",{children:[" ",s.jsx("div",{children:s.jsx(e,{title:"Maxi-dress Section Catalouge",image:""})}),s.jsx(r,{})]});export{a as default};

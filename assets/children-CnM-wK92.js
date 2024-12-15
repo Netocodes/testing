@@ -1,0 +1,1 @@
+import{j as e}from"./index-D8GB8Q-1.js";import{I as t,F as s}from"./footersec-CRRCXL-E.js";const r=()=>e.jsxs("div",{children:[e.jsx(t,{image:"https://i.pinimg.com/736x/7e/10/52/7e1052ca59ea6ba91254f2b07d77bc09.jpg?output-format=webp",title:"Children Section "}),e.jsx(s,{})]});export{r as default};
